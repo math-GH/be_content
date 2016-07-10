@@ -1,0 +1,8 @@
+.tl_header_table td {
+    vertical-align: top;
+}
+
+.tl_listing_container.parent_view .tl_header{
+    max-height: 20em;
+    overflow-y: auto;
+}
