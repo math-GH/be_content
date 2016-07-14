@@ -1,6 +1,9 @@
 # be_content
 Contao CMS Extension. Extends view of content list
 
+Contao CMS: [http://contao.org]
+
+official Contao CMS extension respository: [https://contao.org/de/erweiterungsliste/view/be_content.de.html]
 
 ![](/assets/be_content.jpg)
 
@@ -13,26 +16,26 @@ Empty elements won't shown.
 
 Example elements:
 news:
-tstamp (date of last change)
-headline 	
-alias 	
-author 	
-date 
-time 	
-subheadline
-teaser
-addImage
-singleSRC
+* tstamp (date of last change)
+* headline 	
+* alias 	
+* author 	
+* date 
+* time 	
+* subheadline
+* teaser
+* addImage
+* singleSRC
 
 calendar:
-tstamp (date of last change)
-title
-alias
-author
-startTime 
-endTime
-startDate
-endDate
-teaser
-addImage
-singleSRC
+* tstamp (date of last change)
+* title
+* alias
+* author
+* startTime 
+* endTime
+* startDate
+* endDate
+* teaser
+* addImage
+*singleSRC
