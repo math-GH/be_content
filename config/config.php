@@ -1,8 +1,4 @@
-<?
-
-if (!defined('TL_ROOT')) {
-  die('You cannot access this file directly!');
-}
+<?php if (!defined('TL_ROOT')) die('You cannot access this file directly!');
 
 /**
  * Extension for Contao Open Source CMS
